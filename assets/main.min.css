@@ -7801,18 +7801,6 @@ img.mfp-img {
 }
 
 @font-face {
-  font-family: "Helvetica Neue LT W05_55 Roman";
-  src: url("08b57253-2e0d-4c12-9c57-107f6c67bc49.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Helvetica Neue LT W05_65 Medium";
-  src: url("240c57a0-fdce-440d-9ce3-85e0cb56f470.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Helvetica Neue LT W05_75 Bold";
-  src: url("800da3b0-675f-465f-892d-d76cecbdd5b1.woff2") format("woff2");
-}
-@font-face {
   font-family: "uni_sans_bookregular";
   src: url("uni-sans-book-webfont.woff2") format("woff2");
   font-weight: normal;
@@ -7937,7 +7925,7 @@ h5,
 body {
   font-size: 20px;
   line-height: 30px;
-  font-family: Helvetica Neue LT W05_55 Roman;
+  font-family: Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 * {
@@ -10249,7 +10237,7 @@ hero
   text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
 }
 .hero .description {
-  font-family: "Helvetica Neue LT W05_55 Roman";
+  font-family: Helvetica, Arial, sans-serif;
   font-weight: normal;
   color: #fff;
   margin-bottom: 20px;
@@ -10465,7 +10453,7 @@ standard_text
     font-size: 23px;
     line-height: 33px;
     font-weight: normal;
-    font-family: "Helvetica Neue LT W05_55 Roman";
+    font-family: Helvetica, Arial, sans-serif;
     @include media-breakpoint-up(md) {
       font-size: 32px;
       line-height: 42px;
