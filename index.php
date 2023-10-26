@@ -113,11 +113,11 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative order-lg-2">
             <div class="inner w-100 d-flex justify-content-center align-items-center aos-init" data-aos="fade-left" data-aos-duration="1000">
-              <img class="full-width lozad d-block d-md-none" data-src="./assets/hands-in.jpg" alt=" ">
-              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/hands-in.jpg" alt=" ">
+              <img class="full-width lozad d-block d-md-none" data-src="./assets/need-to-buy.jpg" alt=" ">
+              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/need-to-buy.jpg" alt=" ">
               <span class=" cover">
-                <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/mixed-hands.jpg);"></span>
-                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/mixed-hands.jpg);"></span>
+                <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/need-to-buy.jpg);"></span>
+                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/need-to-buy.jpg);"></span>
                 <span class="header-overlay cover z-index-1"></span>
               </span>
             </div>
