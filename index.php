@@ -167,10 +167,10 @@
       </section>
       <section class="image_with_white_text_block relative d-flex slant-no">
         <span class=" cover">
-          <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/map.jpg);"></span>
-          <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/map.jpg);"></span>
-          <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/map.jpg);"></span>
-          <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/map.jpg);"></span>
+          <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/compass.jpg);"></span>
+          <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/compass.jpg);"></span>
+          <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/compass.jpg);"></span>
+          <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/compass.jpg);"></span>
           <span class="header-overlay cover z-index-1"></span>
         </span>
         <div class="container-large">
