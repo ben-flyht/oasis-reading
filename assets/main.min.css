@@ -9587,7 +9587,6 @@ body.is-active .triangle {
   transition: color 300ms ease;
   margin-right: 7px;
   margin-left: 7px;
-  font-family: "Font Awesome 5 Brands";
   font-weight: normal;
   font-size: 32px;
   line-height: 38px;
@@ -9783,8 +9782,7 @@ body.is-active .triangle {
   display: inline-block;
 }
 .term-links-wrapper-select .select-wrap:after {
-  content: "";
-  font-family: "Font Awesome 5 Pro";
+  content: "•";
   display: inline-block;
   transform: translate(-34px, 0px) rotate(90deg);
 }
@@ -10586,8 +10584,7 @@ image_text
 }
 .image_text ul li:before {
   margin-right: 15px;
-  font-family: "Font Awesome 5 Pro";
-  content: "";
+  content: "•";
   color: #b00835;
 }
 
