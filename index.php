@@ -39,7 +39,7 @@
           <div class="col-12 col-md-4 pad-bottom-60 pad-bottom-0-m  pad-left-30 pad-right-30 pad-left-15-m pad-right-15-m">
             <div class="pad-left-30-m pad-left-40-l">
               <div class="relative aos-init" data-aos="fade-right" data-aos-duration="1000">
-                <img src="./assets/logo.svg" width="365" alt="" class="fluid-img" aria-label="oasis">
+                <img src="./assets/logo.png" width="365" alt="" class="fluid-img" aria-label="oasis">
               </div>
             </div>
           </div>

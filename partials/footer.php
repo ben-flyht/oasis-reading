@@ -2,7 +2,7 @@
   <div class="container  d-flex flex-wrap pad-bottom-40">
     <div class="col-12 col-md-4 col-lg-3 pad-left-0">
       <a href="./index.html" class="d-block logo-wrapper pad-bottom-20 pad-bottom-0-m">
-        <img src="./assets/logo.svg" width="310" height="210" alt="" class="fluid-img" aria-label="oasis">
+        <img src="./assets/logo.png" width="310" height="210" alt="" class="fluid-img" aria-label="oasis">
       </a>
     </div>
     <div class="col-12 col-md-8 col-lg-9 d-flex flex-column pad-right-0 text-center  text-md-left text-md-row ">

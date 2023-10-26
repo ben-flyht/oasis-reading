@@ -14,7 +14,7 @@
 <header id="header" class="has-hero">
   <div class="container-large d-flex justify-content-between align-items-center">
     <a href="./index.html" class="d-block logo-wrapper">
-      <img src="./assets/logo.svg" width="285" height="175" alt="" class="fluid-img" aria-label="oasis">
+      <img src="./assets/logo.png" width="285" height="175" alt="" class="fluid-img" aria-label="oasis">
     </a>
     <nav id="header-menu" class="d-none d-xl-block ">
       <div class="menu-header-menu-container">
