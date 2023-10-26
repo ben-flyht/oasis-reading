@@ -9680,9 +9680,6 @@ body.is-active .triangle {
   opacity: 0;
   margin-top: 5px;
 }
-#footer-menu ul li:first-child a {
-  padding-left: 0;
-}
 #footer-menu ul li:last-child {
   margin-top: 14px;
 }
