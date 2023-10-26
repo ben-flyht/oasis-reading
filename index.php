@@ -68,13 +68,13 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative ">
             <div class="inner w-100 d-flex justify-content-center align-items-center aos-init" data-aos="fade-left" data-aos-duration="1000">
-              <img class="full-width lozad d-block d-md-none" data-src="" alt=" ">
+              <!-- <img class="full-width lozad d-block d-md-none" data-src="" alt=" ">
               <img class="full-width lozad d-none d-md-block d-lg-none " data-src="" alt=" ">
               <span class=" cover">
                 <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url();"></span>
                 <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url();"></span>
                 <span class="header-overlay cover z-index-1"></span>
-              </span>
+              </span> -->
             </div>
           </div>
           <div class="col-12 col-lg-6  background-orange d-flex flex-column justify-content-center align-items-center no-padding">
@@ -113,13 +113,13 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative order-lg-2">
             <div class="inner w-100 d-flex justify-content-center align-items-center aos-init" data-aos="fade-left" data-aos-duration="1000">
-              <img class="full-width lozad d-block d-md-none" data-src="" alt=" ">
+              <!-- <img class="full-width lozad d-block d-md-none" data-src="" alt=" ">
               <img class="full-width lozad d-none d-md-block d-lg-none " data-src="" alt=" ">
               <span class=" cover">
                 <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url();"></span>
                 <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url();"></span>
                 <span class="header-overlay cover z-index-1"></span>
-              </span>
+              </span> -->
             </div>
           </div>
           <div class="col-12 col-lg-6  background-red d-flex flex-column justify-content-center align-items-center no-padding">
@@ -141,13 +141,13 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative ">
             <div class="inner w-100 d-flex justify-content-center align-items-center aos-init" data-aos="fade-left" data-aos-duration="1000">
-              <img class="full-width lozad d-block d-md-none" data-src="" alt=" ">
+              <!-- <img class="full-width lozad d-block d-md-none" data-src="" alt=" ">
               <img class="full-width lozad d-none d-md-block d-lg-none " data-src="" alt=" ">
               <span class=" cover">
                 <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url();"></span>
                 <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url();"></span>
                 <span class="header-overlay cover z-index-1"></span>
-              </span>
+              </span> -->
             </div>
           </div>
           <div class="col-12 col-lg-6  background-orange d-flex flex-column justify-content-center align-items-center no-padding">
