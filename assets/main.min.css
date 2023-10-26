@@ -7801,12 +7801,6 @@ img.mfp-img {
 }
 
 @font-face {
-  font-family: "uni_sans_bookregular";
-  src: url("uni-sans-book-webfont.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
   font-family: "Uni Sans SemiBold";
   src: url("uni-sans-semibold-webfont.woff2") format("woff2");
   font-weight: normal;
@@ -9161,7 +9155,7 @@ header,
   z-index: 10;
   transition-duration: 1;
 }
-header.is-active,
+partials/header.is-active,
 #header-fixed.is-active {
   background: #fff;
   transition: background 300ms ease;
