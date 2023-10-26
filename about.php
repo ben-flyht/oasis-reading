@@ -92,7 +92,7 @@
                   <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-485x0-c.png">
                   <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-402x0-c.png">
                   <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-294x0-c.png"> -->
-                  <img class="full-width lozad" data-src="./assets/beloved.jpg" alt="">
+                  <img class="full-width lozad" data-src="./assets/love.jpg" alt="">
                 </picture>
               </div>
             </div>
