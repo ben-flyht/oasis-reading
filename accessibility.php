@@ -36,9 +36,10 @@
         <div class="container d-block align-items-center">
           <div class="text-wrapper ">
             <div class="desc">
-              <p>As we hire space to meet we aim to thoroughly consider accessibility. We try to provide a variety of ways to participate on a Sunday to be enable people to be themselves. There is often an activity table with mindful colouring and crafts, and we like to offer a quieter space to be. We don’t expect anyone to stay seated in rows. We also try to let you know what kind of practices are on offer each week and what will be covered so you can anticipate the activities and message. </p>
+              <p>As we hire space to meet together we aim to thoroughly consider accessibility. We try to provide a variety of ways to participate on a Sunday to be enable people to be themselves. There is an activity table with mindful colouring and crafts, and we like to offer a quieter space to be. We don’t expect anyone to stay seated in rows. We also try to let you know what kind of practices are on offer each week and what will be covered so you can anticipate the activities and message.</p>
               <p>At our gatherings there will be gluten free snack options and oat and cow’s milk on offer for hot drinks.</p>
-              <p>We can always do better and are committed to reflecting on our practice as we develop ways of meeting together and doing good stuff. Do let us know if there is anything we can help with to enable you to ‘come as you are’.</p>
+              <p>We can always do better and are committed to reflecting on our practice as we develop ways of meeting that help us connect with God and each other.</p>
+              <p>Do let us know if there is anything we can help with to enable you to ‘come as you are’.</p>
             </div>
           </div>
         </div>

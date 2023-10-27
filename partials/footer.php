@@ -8,7 +8,7 @@
     <div class="col-12 col-md-8 col-lg-9 d-flex flex-column pad-right-0 text-center  text-md-left text-md-row ">
       <div class="footer-top-text pad-bottom-20 pad-bottom-0-m">
         <p>The best way to hear about what we’re up to from week to week is to follow us on social media. Use the
-          links below to access our pages, and to get in touch with us email <a href="mailto:welcome@oasisreading.org">welcome@oasisreading.org</a>.</p>
+          links below to access our pages. To get in touch with us via email, <a href="mailto:louise.bisset@oasisuk.org">louise.bisset@oasisuk.org</a>.</p>
       </div>
       <div class=" d-flex social-wrapper justify-content-center justify-content-md-start">
         <a href="https://www.facebook.com/groups/466404561352074" target="_blank" class="social-icon" aria-label="Visit our facebook page">
@@ -50,7 +50,7 @@
   <div class="container d-flex align-items-center copy-wrapper flex-column flex-md-row">
     <div class="col-12 col-md-10 no-padding">
       <div class="copyright d-flex flex-column flex-md-row text-center text-md-left pad-bottom-10 pad-bottom-0-m">
-        Copyright 2023 Ea odio sit aliuando ad Decursu, hic ex quis ante mi imperia caescs eum noviter consensit lectores reddet dui vero. Cum iste signum affectus in sunt nemo et urna omnis cumque per promotionibus..
+        Copyright 2023 Oasis Church Reading is part of Oasis Community Partnerships registered charity (no.1026487), a company limited by guarantee (no 2818823) and part of Oasis UK. Registered Office: 1 Kennington Road, London SE1 7QP.
       </div>
     </div>
   </div>
