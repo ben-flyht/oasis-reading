@@ -1,7 +1,7 @@
 <footer id="footer">
   <div class="container  d-flex flex-wrap pad-bottom-40">
     <div class="col-12 col-md-4 col-lg-3 pad-left-0">
-      <a href="./index.html" class="d-block logo-wrapper pad-bottom-20 pad-bottom-0-m">
+      <a href="./index.php" class="d-block logo-wrapper pad-bottom-20 pad-bottom-0-m">
         <img src="./assets/images/logo.png" width="310" height="210" alt="" class="fluid-img" aria-label="oasis">
       </a>
     </div>
@@ -38,11 +38,11 @@
     <nav id="footer-menu" class="">
       <div class="menu-footer-menu-container">
         <ul id="menu-footer-menu" class="menu">
-          <li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="./index.html">Home</a></li>
-          <li id="menu-item-1046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a rel="privacy" href="./privacy.html">Privacy Policy</a></li>
-          <li id="menu-item-0001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="./accessibility.html">Accessibility</a></li>
-          <li id="menu-item-0002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="./safeguarding.html">Safeguarding</a></li>
-          <li id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="./donate.html">Donate</a></li>
+          <li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="./index.php">Home</a></li>
+          <li id="menu-item-1046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a rel="privacy" href="./privacy.php">Privacy Policy</a></li>
+          <li id="menu-item-0001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="./accessibility.php">Accessibility</a></li>
+          <li id="menu-item-0002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="./safeguarding.php">Safeguarding</a></li>
+          <li id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="./donate.php">Donate</a></li>
         </ul>
       </div>
     </nav>
