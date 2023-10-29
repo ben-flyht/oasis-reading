@@ -1,1 +1,1 @@
-<link rel="stylesheet" id="main-css" href="./assets/main.min.css" type="text/css" media="">
+<link rel="stylesheet" id="main-css" href="./assets/styles/main.min.css" type="text/css" media="">

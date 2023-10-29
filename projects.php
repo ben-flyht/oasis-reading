@@ -4,25 +4,25 @@
 <html lang="en-GB" class="no-js">
 
 <head>
-  <title>Oasis Reading</title>
-  <meta name="description" content="Transforming lives through community">
+  <title>Oasis Church Reading</title>
+  <meta name="description" content="Christ-centred. Inclusive. We belong to each other.">
   <?php include "partials/meta.php" ?>
   <?php include "partials/styles.php" ?>
 </head>
 
-<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+<body>
   <?php include "partials/header.php" ?>
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
         <span class="cover d-block d-md-none  bg-image-cover"
-          style="background-image: url(./assets/heart-in-hands.jpg);"></span>
+          style="background-image: url(./assets/images/heart-in-hands.jpg);"></span>
         <span class="cover d-none d-md-block d-lg-none  bg-image-cover"
-          style="background-image: url(./assets/heart-in-hands.jpg);"></span>
+          style="background-image: url(./assets/images/heart-in-hands.jpg);"></span>
         <span class="cover d-none d-lg-block d-xl-none  bg-image-cover"
-          style="background-image: url(./assets/heart-in-hands.jpg);"></span>
+          style="background-image: url(./assets/images/heart-in-hands.jpg);"></span>
         <span class="cover d-none d-xl-block  bg-image-cover"
-          style="background-image: url(./assets/heart-in-hands.jpg);"></span>
+          style="background-image: url(./assets/images/heart-in-hands.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">

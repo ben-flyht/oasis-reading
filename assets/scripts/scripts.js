@@ -11,9 +11,6 @@
     });
   });
 
-  // Animate on scroll
-  AOS.init();
-
   $(".hamburger").on("click", function () {
     if ($(this).hasClass("is-active")) {
       $(this).removeClass("is-active");

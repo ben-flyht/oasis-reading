@@ -4,21 +4,21 @@
 <html lang="en-GB" class="no-js">
 
 <head>
-  <title>Oasis Reading</title>
-  <meta name="description" content="Transforming lives through community">
+  <title>Oasis Church Reading</title>
+  <meta name="description" content="Christ-centred. Inclusive. We belong to each other.">
   <?php include "partials/meta.php" ?>
   <?php include "partials/styles.php" ?>
 </head>
 
-<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+<body>
   <?php include "partials/header.php" ?>
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
-        <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/mixed-hands.jpg);"></span>
-        <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/mixed-hands.jpg);"></span>
-        <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/mixed-hands.jpg);"></span>
-        <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/mixed-hands.jpg);"></span>
+        <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
+        <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
+        <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
+        <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">
@@ -32,7 +32,7 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
-              <div data-aos="fade-left" data-aos-duration="1000" class="aos-init">
+              <div>
                 <h2 class="h3">Oasis Church Reading</h2>
                 <div class="desc pad-bottom-30">
                   <p>We are a new and emerging local community who are developing ways of outworking the Oasis UK vision here in Reading town. We are committed to radical inclusion and kindness. Back in 2020 we started gathering around the Oasis vision and values, with other wanderers who dreamed of a fully inclusive faith space with no barriers to taking part. We longed for a place where doubts and questions about our faith and the world could be met with curiosity. Lead by compassion, we are excited to venture further into the high, wide, deep and mysterious Love of God in Christ. We want to create spaces that are good news to our community, that meet a need and bring transformation.</p>
@@ -46,12 +46,12 @@
           </div>
           <div class="col-12 col-md-6 no-padding">
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
-              <div class="relative aos-init" data-aos="fade-right" data-aos-duration="1000">
+              <div>
                 <picture class="fluid-img d-block shadow-yes">
                   <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-485x0-c.jpg">
                   <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-402x0-c.jpg">
                   <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-294x0-c.jpg"> -->
-                  <img class="full-width lozad" data-src="./assets/you-are-so-loved.jpg" alt="">
+                  <img class="full-width lozad" data-src="./assets/images/you-are-so-loved.jpg" alt="">
                 </picture>
               </div>
             </div>
@@ -62,7 +62,7 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m order-lg-2">
             <div class="pad-right-30 pad-right-40-l pad-left-30 ">
-              <div data-aos="fade-left" data-aos-duration="1000" class="aos-init">
+              <div>
                 <h2 class="h3">Our Church</h2>
                 <div class="desc pad-bottom-30">
                   <p>Our aim here in Reading is to build a diverse movement of people who form a Christ-centred community defined by four characteristics:</p>
@@ -78,12 +78,12 @@
           </div>
           <div class="col-12 col-md-6 no-padding">
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
-              <div class="relative aos-init" data-aos="fade-right" data-aos-duration="1000">
+              <div class="relative">
                 <picture class="fluid-img d-block shadow-no">
                   <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-485x0-c.png">
                   <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-402x0-c.png">
                   <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-294x0-c.png"> -->
-                  <img class="full-width lozad" data-src="./assets/passion-led-us.jpg" alt="">
+                  <img class="full-width lozad" data-src="./assets/images/passion-led-us.jpg" alt="">
                 </picture>
               </div>
             </div>
@@ -94,11 +94,10 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
-              <div data-aos="fade-left" data-aos-duration="1000" class="aos-init">
+              <div>
                 <h2 class="h3">Full inclusion.</h2>
                 <div class="desc pad-bottom-30">
-                  <p>As a church, we’re committed to being a place where everyone is included and can contribute. That means our goal is always full inclusion, especially in relation to the LGBTQ+ community.</p>
-                  <p>If you’re a member of the LGBTQ+ community, then please know that you can find a safe, welcoming church family here in which we welcome your participation without any hidden agendas. We believe we need each other, with all our beautiful diversity and difference, to reflect the creativity, image, and joy of God. We know that many religious spaces are unsafe environments for LGBTQ+ people. If you’re uncertain or it feels like too much to just turn up, we see you. Do get in touch <a href="mailto:louise.bisset@oasisuk.org">louise.bisset@oasisuk.org</a></p>
+                  <p>As a church, we’re committed to being a place where everyone is included and can contribute. If you’re a member of the LGBTQ+ community, then please know that you can find a safe, welcoming church family here in which we welcome your participation without any glass ceilings. We believe we need each other, with all our beautiful diversity and difference, to reflect the creativity, image, and joy of God. We know that many religious spaces are unsafe environments for LGBTQ+ people. If you’re uncertain or it feels like too much to just turn up, we see you. Do get in touch <a href="mailto:louise.bisset@oasisuk.org">louise.bisset@oasisuk.org</a></p>
                   <p>We are passionate about growing in all areas of inclusion. We aim to be a church which celebrates and affirms every person and does not discriminate against people on grounds of disability, economic power, ethnicity, learning disability, mental health, neurodiversity, as well as sexuality and gender identity.</p>
                 </div>
               </div>
@@ -106,12 +105,12 @@
           </div>
           <div class="col-12 col-md-6 no-padding">
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
-              <div class="relative aos-init" data-aos="fade-right" data-aos-duration="1000">
+              <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
                   <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/826/1-485x0-c.png">
                    <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/826/1-402x0-c.png">
                      <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/826/1-294x0-c.png"> -->
-                   <img class="full-width lozad" data-src="./assets/hand-rainbow.jpg" alt="">
+                   <img class="full-width lozad" data-src="./assets/images/hand-rainbow.jpg" alt="">
                 </picture>
               </div>
             </div>
@@ -122,23 +121,23 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m order-lg-2">
             <div class="pad-right-30 pad-right-40-l pad-left-30 ">
-              <div data-aos="fade-left" data-aos-duration="1000" class="aos-init">
+              <div>
                 <h2 class="h3">An open, progressive theology.</h2>
                 <div class="desc pad-bottom-30">
                   <p>We have experienced a spirit-led widening away from fixed ideas, to discover more fruitful and inclusive ways of understanding our Christian story. We endeavour to lovingly apply this story to a constantly changing world. We don’t apply our bibles literally but try to understand the context, time and genre that passages were written in, viewing scripture through a Christ-lens where all things are reconciled and all people are included. We wrestle with what it means to talk about God and develop a Christ-centred approach to our original goodness and a theology of being loved.</p>
-                  <p>We don’t shy away from other sources of wisdom, taking a posture of curiosity knowing that ‘She moves in mysterious ways’. We desire to be led by the Spirit, who invites us into wholeness and brings about flourishing and shalom. We won’t bypass your very real pain or the ways in which our world is hurting. We hold hope for the future through being present to God, each other and through our actions. We acknowledge that that we can only see in part and that our theological reflections will challenge us and illuminate new ways of seeing and knowing.</p>
+                  <p>We don’t shy away from other sources of wisdom, taking a posture of curiosity and knowing that She moves in mysterious ways. We desire to be led by the Spirit, who invites us into wholeness and brings about flourishing and shalom. We won’t bypass your very real pain or the ways in which our world is hurting. We hold hope for the future through being present to God, each other and through our actions. We acknowledge that that we can only see in part and that our theological reflections will challenge us and illuminate new ways of seeing and knowing.</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-12 col-md-6 no-padding">
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
-              <div class="relative aos-init" data-aos="fade-right" data-aos-duration="1000">
+              <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
                   <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/827/2-485x0-c.png">
                    <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/827/2-402x0-c.png">
                      <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/827/2-294x0-c.png">-->
-                   <img class="full-width lozad" data-src="./assets/arrow-walking.jpg" alt="">
+                   <img class="full-width lozad" data-src="./assets/images/arrow-walking.jpg" alt="">
                 </picture>
               </div>
             </div>
@@ -149,7 +148,7 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
-              <div data-aos="fade-left" data-aos-duration="1000" class="aos-init">
+              <div>
                 <h2 class="h3">A commitment to social justice.</h2>
                 <div class="desc pad-bottom-30">
                   <p>We believe everyone should be able to reach their full potential. We work to include all in this beautiful invitation. We aim to respond with love to people on the underside or margins and aim to contribute to, collaborate on and develop community projects that bring about flourishing for all. You can find out more about what we are involved in here: <a href="./projects.html">Our Projects</a>.</p>
@@ -159,13 +158,13 @@
           </div>
           <div class="col-12 col-md-6 no-padding">
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
-              <div class="relative aos-init" data-aos="fade-right" data-aos-duration="1000">
+              <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
                   <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/830/5-485x0-c.png">
                    <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/830/5-402x0-c.png">
                      <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/830/5-294x0-c.png">
                     -->
-                   <img class="full-width lozad" data-src="./assets/love-neighbour.jpg" alt="">
+                   <img class="full-width lozad" data-src="./assets/images/love-neighbour.jpg" alt="">
                 </picture>
               </div>
             </div>
@@ -176,10 +175,10 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m order-lg-2">
             <div class="pad-right-30 pad-right-40-l pad-left-30 ">
-              <div data-aos="fade-left" data-aos-duration="1000" class="aos-init">
+              <div>
                 <h2 class="h3">An informal church service style and an open table.</h2>
                 <div class="desc pad-bottom-30">
-                  <p>You don’t need to wear your sunday best here (but you can if you would like to, and we’ll notice how snazzy you are). We believe church should be a place where you can be yourself. You won’t find complicated routines and we’ll always try to explain what we’re doing during the service and how you’re invited to participate. Often we will offer bread and wine/juice to practice communion…ANYONE is welcome to take part at any age in an informal way.</p>
+                  <p>You don’t need to wear your Sunday best here (but you can if you would like to, and we’ll notice how snazzy you are). We believe church should be a place where you can be yourself. You won’t find complicated routines and we’ll always try to explain what we’re doing during the service and how you’re invited to participate. Often we will offer bread and wine/juice to practice communion…ANYONE is welcome to take part at any age in an informal way.</p>
                   <p>We always have drinks and snacks and you’re welcome to wander or be still.</p>
                   <p>We know families experience a range of challenges in church, and we know kids aren’t wired to stay still or indeed quiet for any length of time. Come as you are, we’ve all been there as parents!</p>
                 </div>
@@ -191,12 +190,12 @@
           </div>
           <div class="col-12 col-md-6 no-padding">
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
-              <div class="relative aos-init" data-aos="fade-right" data-aos-duration="1000">
+              <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
                   <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/832/Church-Values-485x0-c.png">
                    <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/832/Church-Values-402x0-c.png">
                      <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/832/Church-Values-294x0-c.png"> -->
-                   <img class="full-width lozad" data-src="./assets/smiley.jpg" alt="">
+                   <img class="full-width lozad" data-src="./assets/images/smiley.jpg" alt="">
                 </picture>
               </div>
             </div>
@@ -206,18 +205,18 @@
       <section class="coloured_left_right_blocks flexible-content  ">
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative ">
-            <div class="inner w-100 d-flex justify-content-center align-items-center aos-init" data-aos="fade-left" data-aos-duration="1000">
-              <img class="full-width lozad d-block d-md-none" data-src="./assets/good.jpg" alt=" ">
-              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/good.jpg" alt=" ">
+            <div class="inner w-100 d-flex justify-content-center align-items-center">
+              <img class="full-width lozad d-block d-md-none" data-src="./assets/images/good.jpg" alt=" ">
+              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/images/good.jpg" alt=" ">
               <span class=" cover">
-                <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/good.jpg);"></span>
-                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/good.jpg);"></span>
+                <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/good.jpg);"></span>
+                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/good.jpg);"></span>
                 <span class="header-overlay cover z-index-1"></span>
               </span>
             </div>
           </div>
           <div class="col-12 col-lg-6  background-orange d-flex flex-column justify-content-center align-items-center no-padding">
-            <div class="inner-text aos-init" data-aos="fade-right" data-aos-duration="1000">
+            <div class="inner-text">
               <h2 class="white-text pad-bottom-15">Oasis UK Vision and Values</h2>
               <div class="desc white-text">
                 <p>Oasis UK is inspired and motivated by the life, teaching and example of Jesus and driven by the passionate belief that each human being is uniquely valuable and of equal importance.</p>

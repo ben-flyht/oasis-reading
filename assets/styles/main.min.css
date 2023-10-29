@@ -7802,7 +7802,7 @@ img.mfp-img {
 
 @font-face {
   font-family: "Uni Sans SemiBold";
-  src: url("uni-sans-semibold-webfont.woff2") format("woff2");
+  src: url("../fonts/uni-sans-semibold-webfont.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }

@@ -4,25 +4,25 @@
 <html lang="en-GB" class="no-js">
 
 <head>
-  <title>Oasis Reading</title>
-  <meta name="description" content="Transforming lives through community">
+  <title>Oasis Church Reading</title>
+  <meta name="description" content="Christ-centred. Inclusive. We belong to each other.">
   <?php include "partials/meta.php" ?>
   <?php include "partials/styles.php" ?>
 </head>
 
-<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+<body>
   <?php include "partials/header.php" ?>
   <main id="content">
-    <section class="hero d-flex justify-content-center flex-column relative flexible-content standard-image">
+    <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
         <span class="cover d-block d-md-none  bg-image-cover"
-          style="background-image: url(./assets/paper-aeroplane.jpg);"></span>
+          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
         <span class="cover d-none d-md-block d-lg-none  bg-image-cover"
-          style="background-image: url(./assets/paper-aeroplane.jpg);"></span>
+          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
         <span class="cover d-none d-lg-block d-xl-none  bg-image-cover"
-          style="background-image: url(./assets/paper-aeroplane.jpg);"></span>
+          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
         <span class="cover d-none d-xl-block  bg-image-cover"
-          style="background-image: url(./assets/paper-aeroplane.jpg);"></span>
+          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">
@@ -31,6 +31,17 @@
         </div>
       </div>
     </section>
+    <div class="flexible-content-container">
+      <section class="standard_text flexible-content fc-padding-bottom ">
+        <div class="container d-block align-items-center">
+          <div class="text-wrapper ">
+            <div class="desc">
+              <p>Get in touch with Louise on <a href="mailto:louise.bisset@oasisuk.org">louise.bisset@oasisuk.org</a> or through socials detailed below.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
   </main>
   <?php include "partials/footer.php" ?>
   <?php include "partials/scripts.php" ?>
