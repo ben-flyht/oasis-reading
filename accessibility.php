@@ -4,8 +4,6 @@
 <html lang="en-GB" class="no-js">
 
 <head>
-  <title>Oasis Church Reading</title>
-  <meta name="description" content="Christ-centred. Inclusive. We belong to each other.">
   <?php include "partials/meta.php" ?>
   <?php include "partials/styles.php" ?>
 </head>
