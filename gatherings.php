@@ -15,10 +15,10 @@
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
-        <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/images/fire.jpg);"></span>
-        <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/images/fire.jpg);"></span>
-        <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/fire.jpg);"></span>
-        <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/fire.jpg);"></span>
+        <span class="cover d-block d-md-none bg-image-cover"
+          style="background-image: url(./assets/images/heroes/mobile/fire.jpg);"></span>
+        <span class="cover d-none d-md-block bg-image-cover"
+          style="background-image: url(./assets/images/heroes/desktop/fire.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">
@@ -65,10 +65,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                  <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-485x0-c.jpg">
-                  <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-402x0-c.jpg">
-                  <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-294x0-c.jpg"> -->
-                  <img class="full-width lozad" data-src="./assets/images/autumn-hands.jpg" alt="">
+                  <img class="full-width" src="./assets/images/autumn-hands.jpg" alt="">
                 </picture>
               </div>
             </div>

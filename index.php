@@ -15,10 +15,10 @@
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content home-image">
       <span class="bg-push-top cover">
-        <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/images/rainbow-road.jpg);"></span>
-        <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/images/rainbow-road.jpg);"></span>
-        <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/rainbow-road.jpg);"></span>
-        <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/rainbow-road.jpg);"></span>
+        <span class="cover d-block d-md-none bg-image-cover"
+          style="background-image: url(./assets/images/heroes/mobile/rainbow-road.jpg);"></span>
+        <span class="cover d-none d-md-block bg-image-cover"
+          style="background-image: url(./assets/images/heroes/desktop/rainbow-road.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">
@@ -67,12 +67,9 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative ">
             <div class="inner w-100 d-flex justify-content-center align-items-center">
-              <img class="full-width lozad d-block d-md-none" data-src="./assets/images/passing-heart.jpg" alt=" ">
-              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/images/passing-heart.jpg" alt=" ">
-              <span class=" cover">
-                <span class="cover d-none d-lg-block d-xl-none bg-image-cover" style="background-image: url(./assets/images/passing-heart.jpg);"></span>
-                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/passing-heart.jpg);"></span>
-                <span class="header-overlay cover z-index-1"></span>
+              <img class="full-width d-block d-lg-none" src="./assets/images/passing-heart.jpg" alt="Passing heart" loading="lazy">
+              <span class="cover">
+                <span class="cover d-none d-lg-block bg-image-cover" style="background-image: url(./assets/images/passing-heart.jpg);"></span>
               </span>
             </div>
           </div>
@@ -80,7 +77,7 @@
             <div class="inner-text">
               <div class="pad-bottom-40 d-flex ">
                 <div class="image-wrapper">
-                  <img src="./assets/images/hand.png" alt="" class="fluid-img icon-set">
+                  <img src="./assets/images/hand.png" alt="Hand" class="fluid-img icon-set" loading="lazy">
                 </div>
                 <div class="rightside">
                   <h3 class="white-text">What We Do</h3>
@@ -91,7 +88,7 @@
               </div>
               <div class="pad-bottom-40 d-flex ">
                 <div class="image-wrapper">
-                  <img src="./assets/images/heart.svg" alt="" class="fluid-img icon-set">
+                  <img src="./assets/images/heart.svg" alt="Heart" class="fluid-img icon-set" loading="lazy">
                 </div>
                 <div class="rightside">
                   <h3 class="white-text">What We Believe</h3>
@@ -113,12 +110,9 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative order-lg-2">
             <div class="inner w-100 d-flex justify-content-center align-items-center">
-              <img class="full-width lozad d-block d-md-none" data-src="./assets/images/mixed-hands-circle.jpg" alt=" ">
-              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/images/mixed-hands-circle.jpg" alt=" ">
-              <span class=" cover">
-                <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/mixed-hands-circle.jpg);"></span>
-                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/mixed-hands-circle.jpg);"></span>
-                <span class="header-overlay cover z-index-1"></span>
+              <img class="full-width d-block d-lg-none" src="./assets/images/mixed-hands-circle.jpg" alt="Hands in circle" loading="lazy">
+              <span class="cover">
+                <span class="cover d-none d-lg-block bg-image-cover" style="background-image: url(./assets/images/mixed-hands-circle.jpg);"></span>
               </span>
             </div>
           </div>
@@ -141,12 +135,9 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative ">
             <div class="inner w-100 d-flex justify-content-center align-items-center">
-              <img class="full-width lozad d-block d-md-none" data-src="./assets/images/pass-flower.jpg" alt=" ">
-              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/images/pass-flower.jpg" alt=" ">
-              <span class=" cover">
-                <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/pass-flower.jpg);"></span>
-                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/pass-flower.jpg);"></span>
-                <span class="header-overlay cover z-index-1"></span>
+              <img class="full-width d-block d-lg-none" src="./assets/images/pass-flower.jpg" alt="Passing a flower" loading="lazy">
+              <span class="cover">
+                <span class="cover d-none d-lg-block bg-image-cover" style="background-image: url(./assets/images/pass-flower.jpg);"></span>
               </span>
             </div>
           </div>
@@ -166,11 +157,8 @@
         </div>
       </section>
       <section class="image_with_white_text_block relative d-flex slant-no">
-        <span class=" cover">
-          <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/images/compass.jpg);"></span>
-          <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/images/compass.jpg);"></span>
-          <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/compass.jpg);"></span>
-          <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/compass.jpg);"></span>
+        <span class="cover">
+          <span class="cover d-block bg-image-cover" style="background-image: url(./assets/images/compass.jpg);"></span>
           <span class="header-overlay cover z-index-1"></span>
         </span>
         <div class="container-large">

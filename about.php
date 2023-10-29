@@ -15,10 +15,10 @@
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
-        <span class="cover d-block d-md-none  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
-        <span class="cover d-none d-md-block d-lg-none  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
-        <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
-        <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/mixed-hands.jpg);"></span>
+        <span class="cover d-block d-md-none bg-image-cover"
+          style="background-image: url(./assets/images/heroes/mobile/mixed-hands.jpg);"></span>
+        <span class="cover d-none d-md-block bg-image-cover"
+          style="background-image: url(./assets/images/heroes/desktop/mixed-hands.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">
@@ -48,10 +48,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
               <div>
                 <picture class="fluid-img d-block shadow-yes">
-                  <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-485x0-c.jpg">
-                  <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-402x0-c.jpg">
-                  <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/568/ea253ae1e40e39209607f9dd7e447d31-294x0-c.jpg"> -->
-                  <img class="full-width lozad" data-src="./assets/images/you-are-so-loved.jpg" alt="">
+                  <img class="full-width" src="./assets/images/you-are-so-loved.jpg" alt="You are so loved" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -80,10 +77,7 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-no">
-                  <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-485x0-c.png">
-                  <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-402x0-c.png">
-                  <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/1273/Church-2023-294x0-c.png"> -->
-                  <img class="full-width lozad" data-src="./assets/images/passion-led-us.jpg" alt="">
+                  <img class="full-width" src="./assets/images/passion-led-us.jpg" alt="Passion led us" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -107,10 +101,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                  <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/826/1-485x0-c.png">
-                   <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/826/1-402x0-c.png">
-                     <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/826/1-294x0-c.png"> -->
-                   <img class="full-width lozad" data-src="./assets/images/hand-rainbow.jpg" alt="">
+                   <img class="full-width" src="./assets/images/hand-rainbow.jpg" alt="Rainbow hand" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -134,10 +125,7 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                  <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/827/2-485x0-c.png">
-                   <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/827/2-402x0-c.png">
-                     <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/827/2-294x0-c.png">-->
-                   <img class="full-width lozad" data-src="./assets/images/arrow-walking.jpg" alt="">
+                   <img class="full-width" src="./assets/images/arrow-walking.jpg" alt="Walking towards arrow" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -160,11 +148,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                  <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/830/5-485x0-c.png">
-                   <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/830/5-402x0-c.png">
-                     <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/830/5-294x0-c.png">
-                    -->
-                   <img class="full-width lozad" data-src="./assets/images/love-neighbour.jpg" alt="">
+                   <img class="full-width" src="./assets/images/love-neighbour.jpg" alt="Love your neighbour" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -192,10 +176,7 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                  <!-- <source media="(min-width: 1024px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/832/Church-Values-485x0-c.png">
-                   <source media="(min-width: 769px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/832/Church-Values-402x0-c.png">
-                     <source media="(min-width: 768px)" srcset="https://oasisbath.org/wp-content/uploads/fly-images/832/Church-Values-294x0-c.png"> -->
-                   <img class="full-width lozad" data-src="./assets/images/smiley.jpg" alt="">
+                   <img class="full-width" src="./assets/images/smiley.jpg" alt="Smiley face" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -206,12 +187,9 @@
         <div class=" d-flex flex-column flex-lg-row  no-padding justify-content-between">
           <div class="col-12 col-lg-6 d-flex no-padding overflow relative ">
             <div class="inner w-100 d-flex justify-content-center align-items-center">
-              <img class="full-width lozad d-block d-md-none" data-src="./assets/images/good.jpg" alt=" ">
-              <img class="full-width lozad d-none d-md-block d-lg-none " data-src="./assets/images/good.jpg" alt=" ">
-              <span class=" cover">
-                <span class="cover d-none d-lg-block d-xl-none  bg-image-cover" style="background-image: url(./assets/images/good.jpg);"></span>
-                <span class="cover d-none d-xl-block  bg-image-cover" style="background-image: url(./assets/images/good.jpg);"></span>
-                <span class="header-overlay cover z-index-1"></span>
+              <img class="full-width d-block d-lg-none" src="./assets/images/good.jpg" alt="Good" loading="lazy">
+              <span class="cover">
+                <span class="cover d-none d-lg-block bg-image-cover" style="background-image: url(./assets/images/good.jpg);"></span>
               </span>
             </div>
           </div>
@@ -230,12 +208,9 @@
                   <li>A sense of perseverance to keep going for the long haul</li>
                 </ul>
                 <p>Find out more here about Oasis UK here: <a href="https://www.oasisuk.org/who-are-oasis/our-ethos/" target="_blank">https://www.oasisuk.org/who-are-oasis/our-ethos/</a></p>
-
               </div>
-
             </div>
           </div>
-
         </div>
       </section>
     </div>

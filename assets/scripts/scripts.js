@@ -1,16 +1,4 @@
 (function ($) {
-  $(document).ready(function () {
-    var observer = lozad(); // lazy loads elements with default selector as '.lozad'
-
-    observer.observe();
-    lozad(".lozad", {
-      loaded: function (el) {
-        // Custom implementation on a loaded element
-        el.classList.add("loaded");
-      },
-    });
-  });
-
   $(".hamburger").on("click", function () {
     if ($(this).hasClass("is-active")) {
       $(this).removeClass("is-active");

@@ -15,14 +15,10 @@
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
-        <span class="cover d-block d-md-none  bg-image-cover"
-          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
-        <span class="cover d-none d-md-block d-lg-none  bg-image-cover"
-          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
-        <span class="cover d-none d-lg-block d-xl-none  bg-image-cover"
-          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
-        <span class="cover d-none d-xl-block  bg-image-cover"
-          style="background-image: url(./assets/images/paper-aeroplane.jpg);"></span>
+        <span class="cover d-block d-md-none bg-image-cover"
+          style="background-image: url(./assets/images/heroes/mobile/paper-aeroplane.jpg);"></span>
+        <span class="cover d-none d-md-block bg-image-cover"
+          style="background-image: url(./assets/images/heroes/desktop/paper-aeroplane.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">
