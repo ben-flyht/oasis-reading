@@ -165,7 +165,7 @@
                   <p>We know families experience a range of challenges in church, and we know kids aren’t wired to stay still or indeed quiet for any length of time. Come as you are, we’ve all been there as parents!</p>
                 </div>
                 <div class="d-block ">
-                  <a class="orange-button" href="./gatherings.php" target="">Gatherings</a>
+                  <a class="orange-button" href="./gatherings.php">Gatherings</a>
                 </div>
               </div>
             </div>
