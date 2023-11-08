@@ -1,9 +1,20 @@
-AddHandler application/x-httpd-alt-php74___lsphp .php
-# BEGIN ANSIBLE MANAGED BLOCK
 <IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{HTTP_HOST} oasisreading.org.oasisashburtonpark.org$
-RewriteRule ^(.*)$ "http://oasisashburtonpark.org/404" [R=301,L]
+  Options +FollowSymLinks
+  RewriteEngine On
+
+  # Redirect www to non-www
+  RewriteCond %{SERVER_NAME} ^www\.oasisreading\.org [NC]
+  RewriteRule ^(.*)$ http://oasisreading.org/$1 [L,R=301]
+
+  # Redirect http to https
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP_USER_AGENT} ^(.+)$
+  RewriteCond %{SERVER_NAME} ^oasisreading\.org$ [OR]
+  RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+  # Remove .php extension
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+  Header add Strict-Transport-Security “max-age=300”
 </IfModule>
-# END ANSIBLE MANAGED BLOCK
-DirectoryIndex index.php index.cgi index.html index.htm index.shtml index.wml
