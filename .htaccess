@@ -9,12 +9,12 @@
   # Redirect http to https
   RewriteCond %{HTTPS} !=on
   RewriteCond %{HTTP_USER_AGENT} ^(.+)$
-  RewriteCond %{SERVER_NAME} ^oasisreading\.org$ [OR]
+  RewriteCond %{SERVER_NAME} ^oasisreading\.org$ [NC]
   RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
   # Remove .php extension
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
-  Header add Strict-Transport-Security “max-age=300”
+  Header add Strict-Transport-Security "max-age=300"
 </IfModule>
