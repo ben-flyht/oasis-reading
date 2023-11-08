@@ -137,7 +137,7 @@
               <div>
                 <h2 class="h3">A commitment to social justice.</h2>
                 <div class="desc pad-bottom-30">
-                  <p>We believe everyone should be able to reach their full potential. We work to include all in this beautiful invitation. We aim to respond with love to people on the underside or margins and aim to contribute to, collaborate on and develop community projects that bring about flourishing for all. You can find out more about what we are involved in here: <a href="./projects.php">Our Projects</a>.</p>
+                  <p>We believe everyone should be able to reach their full potential. We work to include all in this beautiful invitation. We aim to respond with love to people on the underside or margins and aim to contribute to, collaborate on and develop community projects that bring about flourishing for all. You can find out more about what we are involved in here: <a href="/projects">Our Projects</a>.</p>
                 </div>
               </div>
             </div>
@@ -165,7 +165,7 @@
                   <p>We know families experience a range of challenges in church, and we know kids aren’t wired to stay still or indeed quiet for any length of time. Come as you are, we’ve all been there as parents!</p>
                 </div>
                 <div class="d-block ">
-                  <a class="orange-button" href="./gatherings.php">Gatherings</a>
+                  <a class="orange-button" href="/gatherings">Gatherings</a>
                 </div>
               </div>
             </div>

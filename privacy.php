@@ -26,7 +26,7 @@
               <p>We are committed to protecting the privacy of the individuals whose data we process and to processing all data in a lawful, open and transparent way.</p>
               <p>We aim to ensure that any information you give us is held securely and safely. You can read more about this in our privacy notice, by clicking on the link below.</p>
               <ul>
-                <li><a href="./assets/downloads/privacy-notice.pdf" target="_blank">Oasis Community Partnerships Privacy Notice</a></li>
+                <li><a href="/assets/downloads/privacy-notice.pdf" target="_blank">Oasis Community Partnerships Privacy Notice</a></li>
               </ul>
             </div>
           </div>

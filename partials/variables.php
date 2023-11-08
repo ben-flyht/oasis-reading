@@ -1,1 +1,1 @@
-<?php $CURRENT_PAGE = str_replace("/", "", str_replace(".php", "", $_SERVER["SCRIPT_NAME"])) ?>
+<?php $CURRENT_PAGE = str_replace("/", "", $_SERVER["REQUEST_URI"]) ?>

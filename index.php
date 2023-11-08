@@ -24,7 +24,7 @@
           <h1 class="title pad-bottom-20-l pad-bottom-10 no-margin">Oasis Church Reading</h1>
           <h3 class="description text-left">Christ-centred. Inclusive. We belong to each other.</h3>
           <div class="text-center text-md-left d-block">
-            <a class="d-none d-md-inline-flex align-items-center orange-button" href="./about.php" aria-label="Read about Welcome to Oasis Hub Bath">
+            <a class="d-none d-md-inline-flex align-items-center orange-button" href="/about" aria-label="Read about Welcome to Oasis Hub Bath">
               More About Us
             </a>
           </div>
@@ -48,11 +48,11 @@
                   <p>Oasis Reading is an inclusive and progressive church and is part of the Oasis Church Network whose vision is for community – a place where everyone is included, makes a contribution, realises a deep sense of belonging and reaches their God-given potential.</p>
                 </div>
                 <div class="d-flex flex-wrap buttons-wrapper flex-column flex-lg-row align-items-start ">
-                  <a class="d-inline-flex orange-button " href="./about.php">
+                  <a class="d-inline-flex orange-button " href="/about">
                     More about us
                   </a>
                   <span class="pad-left-50-l pad-bottom-30"></span>
-                  <a class="d-inline-flex black-button" href="./gatherings.php">
+                  <a class="d-inline-flex black-button" href="/gatherings">
                     Gatherings
                   </a>
                 </div>
@@ -96,7 +96,7 @@
                 </div>
               </div>
               <div class="d-block pad-top-20">
-                <a class="d-inline-flex black-button" href="./about.php">
+                <a class="d-inline-flex black-button" href="/about">
                   More About Us
                 </a>
               </div>
@@ -121,7 +121,7 @@
                 <p>We’d love you to get in touch with us if you are interested in joining in with anything we do. You are so welcome. There are ways to come and ‘just be’ or get busy doing some good stuff that positively impacts our community. Whatever season you’re in, come say hi!</p>
               </div>
               <div class="d-block pad-top-20">
-                <a class="d-inline-flex black-button" href="./gatherings.php">
+                <a class="d-inline-flex black-button" href="/gatherings">
                   Gatherings
                 </a>
               </div>
@@ -146,7 +146,7 @@
                 <p>The work of Oasis Reading is financed entirely by donations. Regular giving will enable us to work towards our vision of an inclusive church who do really good stuff in the community. To find out more about how to donate to Oasis Reading as a one off or on a regular basis, click on the button below.</p>
               </div>
               <div class="d-block pad-top-20">
-                <a class="d-inline-flex black-button" href="./donate.php">
+                <a class="d-inline-flex black-button" href="/donate">
                   Donate
                 </a>
               </div>
@@ -169,7 +169,7 @@
                 <p>Every few weeks we meet at Rushall Farm in Bradfield to breath the free air.</p>
               </div>
               <div class="d-block ">
-                <a class="d-inline-flex orange-button" href="./contact.php">
+                <a class="d-inline-flex orange-button" href="/contact">
                   Get in touch here
                 </a>
               </div>
