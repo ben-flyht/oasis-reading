@@ -21,16 +21,12 @@
     <div class="flexible-content-container">
       <section class="standard_text flexible-content fc-padding-bottom ">
         <div class="container d-block align-items-center">
-          <div class="text-wrapper ">
-            <div class="desc">
-              <p>At Oasis Reading we take our responsibility to safeguard children, young people and adults at risk seriously, and we benefit from the national expertise and resources of Oasis UK in relation to safeguarding.</p>
-              <p>We have specific policies around safeguarding U18s as well as Adults at Risk. Both of these policies are available for you to download by clicking on the links provided below.</p>
-              <ul>
-                <li><a href="/assets/downloads/child-safeguarding-policy.pdf" target="_blank">OCP Child Safeguarding Policy 2022-23</a></li>
-                <li><a href="/assets/downloads/adults-at-risk-policy.pdf" target="_blank">OCP Adults at Risk Policy 2022-2023</a></li>
-              </ul>
-            </div>
-          </div>
+          <p>At Oasis Reading we take our responsibility to safeguard children, young people and adults at risk seriously, and we benefit from the national expertise and resources of Oasis UK in relation to safeguarding.</p>
+          <p>We have specific policies around safeguarding U18s as well as Adults at Risk. Both of these policies are available for you to download by clicking on the links provided below.</p>
+          <ul>
+            <li><a href="/assets/downloads/child-safeguarding-policy.pdf" target="_blank">OCP Child Safeguarding Policy 2022-23</a></li>
+            <li><a href="/assets/downloads/adults-at-risk-policy.pdf" target="_blank">OCP Adults at Risk Policy 2022-2023</a></li>
+          </ul> 
         </div>
       </section>
     </div>

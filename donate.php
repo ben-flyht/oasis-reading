@@ -28,13 +28,9 @@
 
     <div class="flexible-content-container">
       <section class="standard_text flexible-content fc-padding-bottom ">
-        <div class="container d-block align-items-center">
-          <div class="text-wrapper ">
-            <div class="desc">
-              <p>The work of Oasis Reading is financed entirely by donations. Regular or one-off giving will enable us to work towards our vision of an inclusive church who do really good stuff in the community.</p>
-              <p>You can donate to the work of Oasis Reading by following the link to our <a href="/assets/downloads/donation-form.pdf" target="_blank">giving form</a>.</p>
-            </div>
-          </div>
+        <div class="container d-block align-items-center">   
+          <p>The work of Oasis Reading is financed entirely by donations. Regular or one-off giving will enable us to work towards our vision of an inclusive church who do really good stuff in the community.</p>
+          <p>You can donate to the work of Oasis Reading by following the link to our <a href="/assets/downloads/donation-form.pdf" target="_blank">giving form</a>.</p>
         </div>
       </section>
     </div>

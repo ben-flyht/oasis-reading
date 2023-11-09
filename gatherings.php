@@ -30,30 +30,22 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
-              <div>
-                <h3>October</h3>
-                <ul>
-                  <li>Sun 29th Farm Church 10.30am @Rushall Farm</li>
-                  <li>Tues 31st 5-7pm kids Festive Firepit @local home</li>
-                  <li>Tues 31st 8-9.30pm Being Human @local home</li>
-                </ul>           
+              <div>         
                 <h3>November</h3>
                 <ul>
-                  <li>Sun 5th 10.30am House Church @local home</li>
-                  <li>Tues 7th 8-9.30pm Being Human @local home</li>
-                  <li>Sun 12th 10.30am Hall Warming Church Party @new hired space!</li>
-                  <li>Sun 14th 8-9.30pm Being Human @local home</li>
-                  <li>Sun 19th 10.30am Church gathering @new hired space</li>
-                  <li>Tues 21st 8-9.30pm Being Human @local home</li>
-                  <li>Sun 26th 10.30am Church gathering @new hired space</li>
-                  <li>Tues 28th Being Human @local home</li>
+                  <li>Sun 12th 10.30am House Church @local home</li>
+                  <li>Tues 14th 8-9.30pm 'Adventus' small gathering @local home</li>
+                  <li>Sun 19th 10.30am Church gathering @local home</li>
+                  <li>Tues 21st 8-9.30pm 'Honouring Reality' small gathering @local home</li>
+                  <li>Sun 26th 10.30am Church gathering @local home</li>
+                  <li>Tues 28th 'Practicing Honesty' small gathering @local home</li>
                 </ul>              
                 <h3>December</h3>
                 <ul>
                   <li>Sun 3rd ADVENT kick-off Farm Church gathering 10.30am @Rushall Farm</li>
-                  <li>5th 8-9.30pm Being Human @local home</li>
+                  <li>5th 8-9.30pm 'Embracing Paradox' small gathering @local home </li>
                   <li>Sun 10th 10.30am Church gathering @hired space</li>
-                  <li>Tues 12th 8-9.30pm Being Human @local home</li>
+                  <li>Tues 12th 8-9.30pm 'Borrowing Hope' small gathering @local home </li>
                   <li>Sun 17th 10.30am Church gathering @hired space</li>
                 </ul>              
               </div>

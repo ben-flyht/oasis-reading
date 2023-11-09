@@ -28,12 +28,10 @@
     <div class="flexible-content-container">
       <section class="standard_text flexible-content fc-padding-bottom ">
         <div class="container d-block align-items-center">
-          <div class="text-wrapper ">
-            <div class="desc">
-              <p>Watch this space!</p>
-              <p>We want to create spaces and collaborate locally on projects that are good news to our community, that meet a need and that bring transformation.</p>
-              <p>We have some exciting community projects in the pipeline… we’d love you to get involved.</p>
-            </div>
+          <div class="text-wrapper">
+            <p>Watch this space!</p>
+            <p>We want to create spaces and collaborate locally on projects that are good news to our community, that meet a need and that bring transformation.</p>
+            <p>We have some exciting community projects in the pipeline… we’d love you to get involved.</p>
           </div>
         </div>
       </section>

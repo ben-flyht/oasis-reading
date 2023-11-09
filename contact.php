@@ -28,11 +28,7 @@
     <div class="flexible-content-container">
       <section class="standard_text flexible-content fc-padding-bottom ">
         <div class="container d-block align-items-center">
-          <div class="text-wrapper ">
-            <div class="desc">
-              <p>Get in touch with Louise on <a href="mailto:louise.bisset@oasisuk.org">louise.bisset@oasisuk.org</a> or through socials detailed below.</p>
-            </div>
-          </div>
+          <p>Get in touch with Louise on <a href="mailto:louise.bisset@oasisuk.org">louise.bisset@oasisuk.org</a> or through socials detailed below.</p>
         </div>
       </section>
     </div>
