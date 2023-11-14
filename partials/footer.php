@@ -8,7 +8,7 @@
     <div class="col-12 col-md-8 col-lg-9 d-flex flex-column pad-right-0 text-center  text-md-left text-md-row ">
       <div class="footer-top-text pad-bottom-20 pad-bottom-0-m">
         <p>The best way to hear about what we’re up to from week to week is to follow us on social media. Use the
-          links below to access our pages. To get in touch with us via email, <a href="mailto:louise.bisset@oasisuk.org" style="font-weight:400;">louise.bisset@oasisuk.org</a>.</p>
+          links below to access our pages. To get in touch with us via email, <a href="mailto:louise.bisset@oasisuk.org" style="font-weight:400;color:#FFF;">louise.bisset@oasisuk.org</a>.</p>
       </div>
       <div class=" d-flex social-wrapper justify-content-center justify-content-md-start">
         <a href="https://www.facebook.com/groups/466404561352074" target="_blank" class="social-icon" aria-label="Visit our facebook page">
