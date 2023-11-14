@@ -33,7 +33,6 @@
               <div>         
                 <h3>November</h3>
                 <ul>
-                  <li>Sun 12th 10.30am House Church @local home</li>
                   <li>Tues 14th 8-9.30pm 'Adventus' small gathering @local home</li>
                   <li>Sun 19th 10.30am Church gathering @local home</li>
                   <li>Tues 21st 8-9.30pm 'Honouring Reality' small gathering @local home</li>
@@ -42,11 +41,11 @@
                 </ul>              
                 <h3>December</h3>
                 <ul>
-                  <li>Sun 3rd ADVENT kick-off Farm Church gathering 10.30am @Rushall Farm</li>
-                  <li>5th 8-9.30pm 'Embracing Paradox' small gathering @local home </li>
+                  <li>Sun 3rd 10.30am ADVENT kick-off Farm Church gathering @Rushall Farm</li>
+                  <li>Tues 5th 8-9.30pm 'Embracing Paradox' small gathering @local home </li>
                   <li>Sun 10th 10.30am Church gathering @hired space</li>
                   <li>Tues 12th 8-9.30pm 'Borrowing Hope' small gathering @local home </li>
-                  <li>Sun 17th 10.30am Church gathering @hired space</li>
+                  <li>Sun 17th 3pm Campfire & Carols Festive Gathering @‌Rushall Farm</li>
                 </ul>              
               </div>
             </div>
