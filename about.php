@@ -28,7 +28,7 @@
     <div class="flexible-content-container">
       <section class="image_text flexible-content fc-padding-bottom ">
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
-          <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
+          <div class="col-12 col-md-6 no-padding pad-bottom-30 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
                 <h2 class="h3">Oasis Church Reading</h2>
@@ -55,7 +55,7 @@
       </section>
       <section class="image_text flexible-content fc-padding-bottom ">
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
-          <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m order-lg-2">
+          <div class="col-12 col-md-6 no-padding pad-bottom-30 pad-bottom-0-m order-lg-2">
             <div class="pad-right-30 pad-right-40-l pad-left-30 ">
               <div>
                 <h2 class="h3">Our Church</h2>
@@ -84,7 +84,7 @@
       </section>
       <section class="image_text flexible-content fc-padding-bottom ">
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
-          <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
+          <div class="col-12 col-md-6 no-padding pad-bottom-30 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
                 <h2 class="h3">Full inclusion.</h2>
@@ -108,7 +108,7 @@
       </section>
       <section class="image_text flexible-content fc-padding-bottom ">
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
-          <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m order-lg-2">
+          <div class="col-12 col-md-6 no-padding pad-bottom-30 pad-bottom-0-m order-lg-2">
             <div class="pad-right-30 pad-right-40-l pad-left-30 ">
               <div>
                 <h2 class="h3">An open, progressive theology.</h2>
@@ -132,7 +132,7 @@
       </section>
       <section class="image_text flexible-content fc-padding-bottom ">
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
-          <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
+          <div class="col-12 col-md-6 no-padding pad-bottom-30 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
                 <h2 class="h3">A commitment to social justice.</h2>
@@ -155,7 +155,7 @@
       </section>
       <section class="image_text flexible-content fc-padding-bottom ">
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
-          <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m order-lg-2">
+          <div class="col-12 col-md-6 no-padding pad-bottom-30 pad-bottom-0-m order-lg-2">
             <div class="pad-right-30 pad-right-40-l pad-left-30 ">
               <div>
                 <h2 class="h3">An informal church service style and an open table.</h2>
@@ -175,6 +175,29 @@
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
                    <img class="full-width" src="./assets/images/smiley.jpg" alt="Smiley face" loading="lazy">
+                </picture>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="image_text flexible-content fc-padding-bottom ">
+        <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
+          <div class="col-12 col-md-6 no-padding pad-bottom-30 pad-bottom-0-m ">
+            <div class="pad-left-30 pad-left-40-l pad-right-30 ">
+              <div>
+                <h2 class="h3">Oasis Reading Leadership</h2>
+                <div class="desc">
+                <p>As we form and grow as a church community, there are a few of us co-steering; Louise being employed as Church Lead currently supported by Ben, Kathryn, Martyn and Lorraine. We aim to be visible, accessible and accountable as we work together to lead our community into a place where everyone is included and finds a deep sense of belonging. Here are our faces!</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 no-padding">
+            <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
+              <div class="relative">
+                <picture class="fluid-img d-block shadow-yes">
+                   <img class="full-width" src="./assets/images/team.jpeg" alt="Love your neighbour" loading="lazy">
                 </picture>
               </div>
             </div>
