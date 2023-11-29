@@ -30,15 +30,7 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
-              <div>         
-                <h3>November</h3>
-                <ul>
-                  <li>Tues 14th 8-9.30pm 'Adventus' small gathering @local home</li>
-                  <li>Sun 19th 10.30am Church gathering @local home</li>
-                  <li>Tues 21st 8-9.30pm 'Honouring Reality' small gathering @local home</li>
-                  <li>Sun 26th 10.30am Church gathering @local home</li>
-                  <li>Tues 28th 'Practicing Honesty' small gathering @local home</li>
-                </ul>              
+              <div> 
                 <h3>December</h3>
                 <ul>
                   <li>Sun 3rd 10.30am ADVENT kick-off Farm Church gathering @Rushall Farm</li>
