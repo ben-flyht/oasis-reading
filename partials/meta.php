@@ -12,7 +12,9 @@
 <meta name="msapplication-TileColor" content="#b00835">
 <meta name="theme-color" content="#b00835">
 
-<link rel="canonical" href="https://oasisreading.org/" />
+<link rel="canonical" href="<?php echo $CANONICAL_URL ?>" />
+
+
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Oasis Church Reading" />
