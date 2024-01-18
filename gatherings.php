@@ -30,15 +30,28 @@
         <div class="container container-large d-flex flex-wrap  align-items-center no-padding">
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
-              <div> 
-                <h3>December</h3>
+              <div>
+                <h3 class="pad-bottom-10">January</h3>
+                <ul class="pad-bottom-30">
+                  <li>Tues 9th 8-9:30pm 'Curious about Joy' small gathering @local home.</li>
+                  <li>Sun 14th 10.30am all-age gathering in the community.</li>
+                  <li>Tues 16th 8-9.30pm 'Curious about Patience' small gathering @local home.</li>
+                  <li>Sun 21st 10.30am all-age gathering in the community.</li>
+                  <li>Tues 23rd 8-9.30pm 'Curious about Compassion' small gathering @local home.</li>
+                  <li>Sun 28th 10.30am all-age gathering in the community.</li>
+                  <li>Tues 30th 8-9.30pm 'Curious about Forgiveness' small gathering @local home.</li>
+                </ul>
+                <h3 class="pad-bottom-10">February</h3>
                 <ul>
-                  <li>Sun 3rd 10.30am ADVENT kick-off Farm Church gathering @Rushall Farm</li>
-                  <li>Tues 5th 8-9.30pm 'Embracing Paradox' small gathering @local home </li>
-                  <li>Sun 10th 10.30am Church gathering @hired space</li>
-                  <li>Tues 12th 8-9.30pm 'Borrowing Hope' small gathering @local home </li>
-                  <li>Sun 17th 3pm Campfire & Carols Festive Gathering @‌Rushall Farm</li>
-                </ul>              
+                  <li>Sunday 4th 10.30am all age-gathering @Rushall Farm Oaklands.</li>
+                  <li>Monday 5th Comms, Pie and Ale evening!</li>
+                  <li>Tues 6th 8-9.30pm 'Curious about Hope' small gathering @local home.</li>
+                  <li>Sunday 11th 10.30am all-age PANCAKE PARTY.</li>
+                  <li>Sunday 18th 10.30am LENT all-age gathering in the community.</li>
+                  <li>Tuesday 20th 8-9.30pm 'Curious about Honesty' small gathering @local home.</li>
+                  <li>Sunday 25th 10.30am all-age gathering in the community.</li>
+                  <li>Tuesday 27th 8-9.30pm 'Curious about Humility' small gathering @local home.</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -46,7 +59,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                  <img class="full-width" src="./assets/images/autumn-hands.jpg" alt="">
+                  <img class="full-width" src="./assets/images/cup-in-mittens.jpeg" alt="">
                 </picture>
               </div>
             </div>
