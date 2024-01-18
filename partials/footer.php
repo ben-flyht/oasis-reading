@@ -11,7 +11,7 @@
           links below to access our pages. To get in touch with us via email, <a href="mailto:louise.bisset@oasisuk.org" style="font-weight:400;color:#FFF;">louise.bisset@oasisuk.org</a>.</p>
       </div>
       <div class=" d-flex social-wrapper justify-content-center justify-content-md-start">
-        <a href="https://www.facebook.com/groups/466404561352074" target="_blank" class="social-icon" aria-label="Visit our facebook page">
+        <a href="https://www.facebook.com/profile.php?id=61553898710344" target="_blank" class="social-icon" aria-label="Visit our facebook page">
           <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
             <style>
               svg {
