@@ -14,7 +14,6 @@
 
 <link rel="canonical" href="<?php echo $CANONICAL_URL ?>" />
 
-
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Oasis Church Reading" />
