@@ -13,10 +13,8 @@
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
-        <span class="cover d-block d-md-none bg-image-cover"
-          style="background-image: url(./assets/images/heroes/mobile/mixed-hands.jpg);"></span>
-        <span class="cover d-none d-md-block bg-image-cover"
-          style="background-image: url(./assets/images/heroes/desktop/mixed-hands.jpg);"></span>
+        <span class="cover d-block d-md-none bg-image-cover" style="background-image: url(./assets/images/heroes/mobile/mixed-hands.jpg);"></span>
+        <span class="cover d-none d-md-block bg-image-cover" style="background-image: url(./assets/images/heroes/desktop/mixed-hands.jpg);"></span>
         <span class="header-overlay cover z-index-1"></span>
       </span>
       <div class="container position-relative z-index-2 ">
@@ -99,7 +97,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                   <img class="full-width" src="./assets/images/hand-rainbow.jpg" alt="Rainbow hand" loading="lazy">
+                  <img class="full-width" src="./assets/images/hand-rainbow.jpg" alt="Rainbow hand" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -113,7 +111,7 @@
               <div>
                 <h2 class="h3">An open, progressive theology.</h2>
                 <div class="desc pad-bottom-30">
-                  <p>We have experienced a spirit-led widening away from fixed ideas, to discover more fruitful and inclusive ways of understanding our Christian story. We endeavour to lovingly apply this story to a constantly changing world. We don’t apply our bibles literally but try to understand the context, time and genre that passages were written in, viewing scripture through a Christ-lens where all things are reconciled and all people are included. We wrestle with what it means to talk about God and develop a Christ-centred approach to our original goodness and a theology of being loved.</p>
+                  <p>We have experienced a spirit-led widening away from fixed ideas, to discover more fruitful and inclusive ways of understanding our Christian story. We endeavour to lovingly apply this story to a constantly changing world. We don’t simply apply our bibles literally but try to understand the context, time and genre that passages were written in, viewing scripture through a Christ-lens where all things are reconciled and all people are included. We wrestle with what it means to talk about God and develop a Christ-centred approach to our original goodness and a theology of being loved.</p>
                   <p>We don’t shy away from other sources of wisdom, taking a posture of curiosity and knowing that She moves in mysterious ways. We desire to be led by the Spirit, who invites us into wholeness and brings about flourishing and shalom. We won’t bypass your very real pain or the ways in which our world is hurting. We hold hope for the future through being present to God, each other and through our actions. We acknowledge that that we can only see in part and that our theological reflections will challenge us and illuminate new ways of seeing and knowing.</p>
                 </div>
               </div>
@@ -123,7 +121,7 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                   <img class="full-width" src="./assets/images/arrow-walking.jpg" alt="Walking towards arrow" loading="lazy">
+                  <img class="full-width" src="./assets/images/arrow-walking.jpg" alt="Walking towards arrow" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -146,7 +144,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                   <img class="full-width" src="./assets/images/love-neighbour.jpg" alt="Love your neighbour" loading="lazy">
+                  <img class="full-width" src="./assets/images/love-neighbour.jpg" alt="Love your neighbour" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -174,7 +172,7 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 pad-right-30-m pad-right-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                   <img class="full-width" src="./assets/images/smiley.jpg" alt="Smiley face" loading="lazy">
+                  <img class="full-width" src="./assets/images/smiley.jpg" alt="Smiley face" loading="lazy">
                 </picture>
               </div>
             </div>
@@ -188,7 +186,7 @@
               <div>
                 <h2 class="h3">Oasis Reading Leadership</h2>
                 <div class="desc">
-                <p>As we form and grow as a church community, there are a few of us co-steering; Louise being employed as Church Lead currently supported by Ben, Kathryn, Martyn and Lorraine. We aim to be visible, accessible and accountable as we work together to lead our community into a place where everyone is included and finds a deep sense of belonging. Here are our faces!</p>
+                  <p>As we form and grow as a church community, there are a few of us co-steering; Louise being employed as Church Lead currently supported by Ben, Kathryn, Martyn and Lorraine. We aim to be visible, accessible and accountable as we work together to lead our community into a place where everyone is included and finds a deep sense of belonging. Here are our faces!</p>
                 </div>
               </div>
             </div>
@@ -197,7 +195,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                   <img class="full-width" src="./assets/images/team.jpeg" alt="Love your neighbour" loading="lazy">
+                  <img class="full-width" src="./assets/images/team.jpeg" alt="Love your neighbour" loading="lazy">
                 </picture>
               </div>
             </div>
