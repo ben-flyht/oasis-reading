@@ -33,11 +33,11 @@
                 <ul>
                   <li>Sunday 3rd 10.30am ‘HALL WARMING’ all age gathering @school hall Earley St Peter’s</li>
                   <li>Tuesday 5th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
-                  <li>Sunday 10th 10.30am Gathering + kids group @school hall Earley St Peter’s</li>
+                  <li>Sunday 10th 10.30am Gathering @school hall Earley St Peter’s</li>
                   <li>Tuesday 12th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
-                  <li>Sunday 17th 10.30am All-age gathering @home in the community.</li>
+                  <li>Sunday 17th 10.30am Gathering @school hall Earley St Peter’s</li>
                   <li>Tuesday 19th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
-                  <li>Palm Sunday 24th 10.30am Gathering + kids group @school hall Earley St Peter’s.</li>
+                  <li>Palm Sunday 24th 11am Visiting Oasis Waterloo.</li>
                   <li>Tuesday 26th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
                   <li>Good Friday 29th 10.30am Contemplative trail & all-age activities @Rushall Farm</li>
                   <li>Easter Sunday 31st 10.30am All-age gathering @school hall Earley St Peter’s.</li>
