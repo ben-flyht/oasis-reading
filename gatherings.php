@@ -29,18 +29,39 @@
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
-                <h3 class="pad-bottom-10">March</h3>
+                <h3 class="pad-bottom-10">April</h3>
                 <ul>
-                  <li>Sunday 3rd 10.30am ‘HALL WARMING’ all age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 5th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
-                  <li>Sunday 10th 10.30am All-age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 12th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
-                  <li>Sunday 17th 10.30am All-age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 19th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
-                  <li>Palm Sunday 24th 11am Visiting Oasis Waterloo.</li>
-                  <li>Tuesday 26th 8-9.30pm 'Oasis Ethos & habits reflections' small gathering @local home</li>
-                  <li>Good Friday 29th 10.30am Contemplative trail & all-age activities @Rushall Farm</li>
-                  <li>Easter Sunday 31st 10.30am All-age gathering @school hall Earley St Peter’s.</li>
+                  <li>Tuesday 16th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
+                  <li>Sunday 21st 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Tuesday 23rd 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
+                  <li>Sunday 28th 10.30am All-age gathering @school hall Earley St Peter’s</li>
+                </ul>
+                <h3 class="pad-bottom-10">May</h3>
+                <ul>
+                  <li>Sunday 5th 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Tuesday 7th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
+                  <li>Sunday 12th 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Tuesday 14th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
+                  <li>Saturday 18th Community Festival Reading University</li>
+                  <li>Sunday 26th 10.30am all age gathering @Rushall Farm plus BBQ</li>
+                </ul>
+                <h3 class="pad-bottom-10">June</h3>
+                <ul>
+                  <li>Tuesday 4th 8-9.30pm small gathering @local home</li>
+                  <li>Sunday 9th 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Tuesday 11th 8-9.30pm small gathering @local home</li>
+                  <li>Tuesday 18th 8-9.30pm small gathering @local home</li>
+                  <li>Sunday 23rd 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Tuesday 25th 8-9.30pm small gathering @local home</li>
+                </ul>
+                <h3 class="pad-bottom-10">July</h3>
+                <ul>
+                  <li>Tuesday 2nd 8-9.30pm small gathering @local home</li>
+                  <li>Sunday 7th 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Tuesday 9th 8-9.30pm small gathering @local home</li>
+                  <li>Sunday 14th 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Tuesday 16th 8-9.30pm small gathering @local home</li>
+                  <li>Sunday 21st 10.30am all age gathering @school hall Earley St Peter’s</li>
                 </ul>
               </div>
             </div>
