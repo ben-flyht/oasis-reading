@@ -29,16 +29,9 @@
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
-                <h3 class="pad-bottom-10">April</h3>
-                <ul>
-                  <li>Tuesday 16th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
-                  <li>Sunday 21st 10.30am all age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 23rd 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
-                  <li>Sunday 28th 10.30am All-age gathering @school hall Earley St Peter’s</li>
-                </ul>
                 <h3 class="pad-bottom-10">May</h3>
                 <ul>
-                  <li>Sunday 5th 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Sunday 5th 10.30am at the coffee deck @dintonpasturescp</li>
                   <li>Tuesday 7th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
                   <li>Sunday 12th 10.30am all age gathering @school hall Earley St Peter’s</li>
                   <li>Tuesday 14th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
