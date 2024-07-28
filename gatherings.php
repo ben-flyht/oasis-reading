@@ -29,32 +29,23 @@
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
-                <h3 class="pad-bottom-10">May</h3>
+                <h3 class="pad-bottom-10">August</h3>
                 <ul>
-                  <li>Sunday 5th 10.30am at the coffee deck @dintonpasturescp</li>
-                  <li>Tuesday 7th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
-                  <li>Sunday 12th 10.30am all age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 14th 8-9.30pm ‘Field notes for the Wilderness’ small gathering @local home</li>
-                  <li>Saturday 18th Community Festival Reading University</li>
-                  <li>Sunday 26th 10.30am all age gathering @Rushall Farm plus BBQ</li>
+                  <li>Sunday 18th 10.30am all age Farm gathering + Brekkie BBQ</li>
+                  <li>Tuesday 20th 8-9.30pm ‘Field Notes’ small gathering @local home</li>
+                  <li>Sunday 25th 10.30am all age gathering in the community venue TBC – pride banner prep!</li>
+                  <li>Tuesday 27th 8-9.30pm ‘Field Notes’ small gathering @local home</li>
+                  <li>Sat 31st AM Reading Pride Parade details TBC</li>
                 </ul>
-                <h3 class="pad-bottom-10">June</h3>
+                <h3 class="pad-bottom-10">September</h3>
                 <ul>
-                  <li>Tuesday 4th 8-9.30pm small gathering @local home</li>
-                  <li>Sunday 9th 10.30am all age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 11th 8-9.30pm small gathering @local home</li>
-                  <li>Tuesday 18th 8-9.30pm small gathering @local home</li>
-                  <li>Sunday 23rd 10.30am all age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 25th 8-9.30pm small gathering @local home</li>
-                </ul>
-                <h3 class="pad-bottom-10">July</h3>
-                <ul>
-                  <li>Tuesday 2nd 8-9.30pm small gathering @local home</li>
-                  <li>Sunday 7th 10.30am all age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 9th 8-9.30pm small gathering @local home</li>
-                  <li>Sunday 14th 10.30am all age gathering @school hall Earley St Peter’s</li>
-                  <li>Tuesday 16th 8-9.30pm small gathering @local home</li>
-                  <li>Sunday 21st 10.30am all age gathering @school hall Earley St Peter’s</li>
+                  <li>Sunday 8th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 10th 8-9.30pm ‘Field Notes’ small gathering @local home</li>
+                  <li>Sunday 15th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 17th 8-9.30pm ‘Field Notes’ small gathering @local home</li>
+                  <li>Sunday 22nd 10.30-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 24th 8-9.30pm ‘Field Notes’ small gathering @local home</li>
+                  <li>Sunday 29th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
                 </ul>
               </div>
             </div>
