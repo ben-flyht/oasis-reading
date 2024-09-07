@@ -29,14 +29,6 @@
           <div class="col-12 col-md-6 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
-                <h3 class="pad-bottom-10">August</h3>
-                <ul>
-                  <li>Sunday 18th 10.30am all age Farm gathering + Brekkie BBQ</li>
-                  <li>Tuesday 20th 8-9.30pm ‘Field Notes’ small gathering @local home</li>
-                  <li>Sunday 25th 10.30am all age gathering in the community venue TBC – pride banner prep!</li>
-                  <li>Tuesday 27th 8-9.30pm ‘Field Notes’ small gathering @local home</li>
-                  <li>Sat 31st AM Reading Pride Parade details TBC</li>
-                </ul>
                 <h3 class="pad-bottom-10">September</h3>
                 <ul>
                   <li>Sunday 8th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
