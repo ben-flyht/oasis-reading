@@ -195,7 +195,7 @@
             <div class="pad-right-30 pad-right-40-l pad-left-30 pad-left-30-m pad-left-40-l ">
               <div class="relative">
                 <picture class="fluid-img d-block shadow-yes">
-                  <img class="full-width" src="./assets/images/team.jpeg" alt="Love your neighbour" loading="lazy">
+                  <img class="full-width" src="./assets/images/team.png" alt="Our team" loading="lazy">
                 </picture>
               </div>
             </div>
