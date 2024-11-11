@@ -29,16 +29,6 @@
           <div class="col-12 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
-                <h3 class="pad-bottom-10">October</h3>
-                <ul class="pad-bottom-30">
-                  <li>Sunday 6th 10.30-12pm gathering in local community tbc</li>
-                  <li>Tuesday 8th 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 13th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 15th 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 20th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 22nd 8-9.30pm book club small gathering @local home</li>
-                  <li>Thursday 31st Festive Family fire pit and treats @local home 5-7pm</li>
-                </ul>
                 <h3 class="pad-bottom-10">November</h3>
                 <ul class="pad-bottom-30">
                   <li>Sunday 3rd 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
