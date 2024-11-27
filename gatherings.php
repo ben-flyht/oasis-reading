@@ -29,24 +29,13 @@
           <div class="col-12 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
-                <h3 class="pad-bottom-10">November</h3>
-                <ul class="pad-bottom-30">
-                  <li>Sunday 3rd 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 5th 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 10th 10.30-12pm gathering in local community tbc</li>
-                  <li>Tuesday 12th 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 17th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 19th 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 24th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 26th 8-9.30pm book club small gathering @local home</li>
-                </ul>
                 <h3 class="pad-bottom-10">December</h3>
                 <ul class="pad-bottom-30">
                   <li>Sunday 1st 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
                   <li>Tuesday 3rd 8-9.30pm book club small gathering @local home</li>
                   <li>Sunday 8th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
                   <li>Tuesday 10th 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 15th 3-5pm Carols, Craft & Campfire Rushall Farm Cartshed</li>
+                  <li>Sunday 15th 10.30am-12.30pm Carols, Craft & Campfire Rushall Farm Cartshed</li>
                   <li>Tuesday 17th 8-9.30pm Bookclub gathering @local home</li>
                   <li>Sunday 22nd December 10.3-12pm @local home gathering, carols and mince pies</li>
                 </ul>
