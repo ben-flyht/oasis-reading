@@ -29,16 +29,51 @@
           <div class="col-12 no-padding pad-bottom-60 pad-bottom-0-m ">
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
-                <h3 class="pad-bottom-10">December</h3>
+
+                <h3 class="pad-bottom-10">January</h3>
                 <ul class="pad-bottom-30">
-                  <li>Sunday 1st 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 3rd 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 8th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 10th 8-9.30pm book club small gathering @local home</li>
-                  <li>Sunday 15th 10.30am-12.30pm Carols, Craft & Campfire Rushall Farm Cartshed</li>
-                  <li>Tuesday 17th 8-9.30pm Bookclub gathering @local home</li>
-                  <li>Sunday 22nd December 10.3-12pm @local home gathering, carols and mince pies</li>
+                  <li>Sunday 12th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Sunday 19th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Sunday 26th 10.30am-12.30pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 28th 8pm-9.30pm bookclub gathering @local home</li>
                 </ul>
+
+                <h3 class="pad-bottom-10">February</h3>
+                <ul class="pad-bottom-30">
+                  <li>Sunday 2nd 10.30am-12pm local outdoor gather/walk/pub</li>
+                  <li>Tuesday 4th 8-9.30pm bookclub gathering @local home</li>
+                  <li>Sunday 9th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 11th 8-9.30 bookclub gathering @local home</li>
+                  <li>Sunday 16th all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Sunday 23rd Half term local outdoor gather/walk/pub</li>
+                  <li>Tuesday 25th 8pm-9.30pm bookclub gathering @local home</li>
+                </ul>
+
+                <h3 class="pad-bottom-10">March</h3>
+                <ul class="pad-bottom-30">
+                  <li>Sunday 2nd 10.30am-12pm all age PANCAKE gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 4th 8-9.30pm bookclub gathering @local home</li>
+                  <li>Sunday 9th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 11th 8-9.30 bookclub gathering @local home</li>
+                  <li>Sunday 16th all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Tuesday 18th bookclub gathering @local home</li>
+                  <li>Sunday 23rd local outdoor gather/walk/pub</li>
+                  <li>Tuesday 25th 8pm-9.30pm bookclub gathering @local home</li>
+                  <li>Sunday 30th all age gathering @Earley St Peter’s School Hall</li>
+                </ul>
+
+                <h3 class="pad-bottom-10">April</h3>
+                <ul class="pad-bottom-30">
+                  <li>Tuesday 1st 8pm-9.30pm bookclub gathering @local home</li>
+                  <li>Sunday 6th Break</li>
+                  <li>Sunday 13th Outdoor walk/pub/gather</li>
+                  <li>15/16th kid’s easter holiday club days (TBC)</li>
+                  <li>Friday 18th 11-1 Good Friday Farm creative gathering</li>
+                  <li>Easter Sunday 20th 10am Lake gathering and reflection @Dinton pastures</li>
+                  <li>Tuesday 22nd h 8-9.30pm bookclub gathering @local home</li>
+                  <li>Sunday 27th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                </ul>
+
               </div>
             </div>
           </div>
