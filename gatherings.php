@@ -30,21 +30,13 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
 
-                <h3 class="pad-bottom-10">January</h3>
-                <ul class="pad-bottom-30">
-                  <li>Sunday 12th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Sunday 19th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Sunday 26th 10.30am-12.30pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 28th 8pm-9.30pm bookclub gathering @local home</li>
-                </ul>
-
                 <h3 class="pad-bottom-10">February</h3>
                 <ul class="pad-bottom-30">
                   <li>Sunday 2nd 10.30am-12pm local outdoor gather/walk/pub</li>
                   <li>Tuesday 4th 8-9.30pm bookclub gathering @local home</li>
                   <li>Sunday 9th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
                   <li>Tuesday 11th 8-9.30 bookclub gathering @local home</li>
-                  <li>Sunday 16th all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Sunday 16th all age gathering @local home</li>
                   <li>Sunday 23rd Half term local outdoor gather/walk/pub</li>
                   <li>Tuesday 25th 8pm-9.30pm bookclub gathering @local home</li>
                 </ul>
