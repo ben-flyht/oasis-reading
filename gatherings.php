@@ -30,17 +30,6 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
 
-                <h3 class="pad-bottom-10">February</h3>
-                <ul class="pad-bottom-30">
-                  <li>Sunday 2nd 10.30am-12pm local outdoor gather/walk/pub</li>
-                  <li>Tuesday 4th 8-9.30pm bookclub gathering @local home</li>
-                  <li>Sunday 9th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 11th 8-9.30 bookclub gathering @local home</li>
-                  <li>Sunday 16th all age gathering @local home</li>
-                  <li>Sunday 23rd Half term local outdoor gather/walk/pub</li>
-                  <li>Tuesday 25th 8pm-9.30pm bookclub gathering @local home</li>
-                </ul>
-
                 <h3 class="pad-bottom-10">March</h3>
                 <ul class="pad-bottom-30">
                   <li>Sunday 2nd 10.30am-12pm all age PANCAKE gathering @Earley St Peter’s School Hall</li>
@@ -57,13 +46,13 @@
                 <h3 class="pad-bottom-10">April</h3>
                 <ul class="pad-bottom-30">
                   <li>Tuesday 1st 8pm-9.30pm bookclub gathering @local home</li>
-                  <li>Sunday 6th Break</li>
-                  <li>Sunday 13th Outdoor walk/pub/gather</li>
-                  <li>15/16th kid’s easter holiday club days (TBC)</li>
-                  <li>Friday 18th 11-1 Good Friday Farm creative gathering</li>
+                  <li>Sunday 6th 10.30am-12pm all age gathering @Earley St Peter's School Hall</li>
+                  <li>Thursday 10th 10am-12pm 'Hello Easter' family fun event @StNics Earley</li>
+                  <li>Sunday 13th Break</li>
+                  <li>Friday 18th 11-2 Good Friday brunch BBQ gathering@local home.</li>
                   <li>Easter Sunday 20th 10am Lake gathering and reflection @Dinton pastures</li>
                   <li>Tuesday 22nd h 8-9.30pm bookclub gathering @local home</li>
-                  <li>Sunday 27th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
+                  <li>Sunday 27th 10.30am-12pm all age gathering @Earley St Peter's School Hall</li>
                 </ul>
 
               </div>
