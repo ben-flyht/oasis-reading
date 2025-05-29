@@ -1,15 +1,15 @@
-<?php include "partials/variables.php" ?>
+<?php include "partials/variables.php"; ?>
 
 <!DOCTYPE html>
 <html lang="en-GB" class="no-js">
 
 <head>
-  <?php include "partials/meta.php" ?>
-  <?php include "partials/styles.php" ?>
+  <?php include "partials/meta.php"; ?>
+  <?php include "partials/styles.php"; ?>
 </head>
 
 <body>
-  <?php include "partials/header.php" ?>
+  <?php include "partials/header.php"; ?>
   <main id="content">
     <section class="hero d-flex justify-content-center flex-column relative flexible-content fc-margin-bottom standard-image">
       <span class="bg-push-top cover">
@@ -30,29 +30,15 @@
             <div class="pad-left-30 pad-left-40-l pad-right-30 ">
               <div>
 
-                <h3 class="pad-bottom-10">March</h3>
+                <h3 class="pad-bottom-10">June</h3>
                 <ul class="pad-bottom-30">
-                  <li>Sunday 2nd 10.30am-12pm all age PANCAKE gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 4th 8-9.30pm bookclub gathering @local home</li>
-                  <li>Sunday 9th 10.30am-12pm all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 11th 8-9.30 bookclub gathering @local home</li>
-                  <li>Sunday 16th all age gathering @Earley St Peter’s School Hall</li>
-                  <li>Tuesday 18th bookclub gathering @local home</li>
-                  <li>Sunday 23rd local outdoor gather/walk/pub</li>
-                  <li>Tuesday 25th 8pm-9.30pm bookclub gathering @local home</li>
-                  <li>Sunday 30th all age gathering @Earley St Peter’s School Hall</li>
-                </ul>
-
-                <h3 class="pad-bottom-10">April</h3>
-                <ul class="pad-bottom-30">
-                  <li>Tuesday 1st 8pm-9.30pm bookclub gathering @local home</li>
-                  <li>Sunday 6th 10.30am-12pm all age gathering @Earley St Peter's School Hall</li>
-                  <li>Thursday 10th 10am-12pm 'Hello Easter' family fun event @StNics Earley</li>
-                  <li>Sunday 13th Break</li>
-                  <li>Friday 18th 11-2 Good Friday brunch BBQ gathering@local home.</li>
-                  <li>Easter Sunday 20th 10am Lake gathering and reflection @Dinton pastures</li>
-                  <li>Tuesday 22nd h 8-9.30pm bookclub gathering @local home</li>
-                  <li>Sunday 27th 10.30am-12pm all age gathering @Earley St Peter's School Hall</li>
+                  <li>Tuesday 3rd 8pm-9.30pm bookclub gathering @local home.</li>
+                  <li>Sunday 8th 10.30am-12pm all age gathering @Earley St Peter's School Hall.</li>
+                  <li>Tuesday 10th June 8-9.30pm bookclub gathering @local home.</li>
+                  <li>Sunday 15th June 10.30am-12pm all age gathering @Earley St Peter's School Hall.</li>
+                  <li>Tuesday 17th June 8-9.30pm bookclub gathering @local home.</li>
+                  <li>Sunday 22nd June Outdoor gather Summer Solstice (location tbc) 10.30am.</li>
+                  <li>Sunday 29th June all age gathering @Earley St Peter’s School Hall.</li>
                 </ul>
 
               </div>
@@ -62,8 +48,8 @@
       </section>
     </div>
   </main>
-  <?php include "partials/footer.php" ?>
-  <?php include "partials/scripts.php" ?>
+  <?php include "partials/footer.php"; ?>
+  <?php include "partials/scripts.php"; ?>
 </body>
 
 </html>
